@@ -1,0 +1,67 @@
+     LICENSE AGREEMENT AND LIMITED WARRANTY
+
+                               
+This disc contains scripts, programs, and VHDL/Verilog source
+code (hereinafter the "SOFTWARE") written by Dr. Uwe Meyer-Baese
+and copyrighted by Springer-Verlag Berlin-Heidelberg-New York
+(hereinafter the "COMPANY").  Because your payment of the
+license fee, which is part of the price you paid for this
+product, the COMPANY grants you a nonexclusive right to use the
+enclosed SOFTWARE on a single computer as long as you comply
+with the terms of this Agreement. This terms include:
+
+ 1. You must not reproduced and sell the SOFTWARE for profit.
+ 2. You may not make more than a single copy of the SOFTWARE for backup.
+ 3. Do not display the SOFTWARE on the world wide web.
+ 4. You may not modify, adapt, or translate to create derivative
+    commercial products based on the SOFTWARE without prior written
+    consent of the COMPANY.
+
+If you do not agree with these terms and conditions do not use
+the SOFTWARE. Non-commercial use of the SOFTWARE is free.  You
+are welcome to use the source code for research or teaching
+purpose, but you must then include this Agreement with the code.
+If you modify the code for your own research, it would be polite
+to acknowledge the COMPANY and the author as the source of the
+original code with a comment.  For example,
+
+VHDL
+
+  -- Original source Copyright Springer-Verlag Berlin-Heidelberg-New York
+  -- Author of original VHDL code: Dr. Uwe Meyer-Baese   
+  -- Modified by: your name here 
+
+Verilog
+
+  // Original source Copyright Springer-Verlag Berlin-Heidelberg-New York
+  // Author of original VHDL code: Dr. Uwe Meyer-Baese   
+  // Modified by: your name here   
+
+If your use of this SOFTWARE is leading to a publication the
+author would appreciate a short (bibliographic) e-mail note at
+Uwe.Meyer-Baese@ieee.org.
+
+
+
+                            NO WARRANTY
+
+THE ENCLOSED SOFTWARE IS DISTRIBUTED ON AN "AS IS" BASIS,
+WITHOUT WARRANTY.  NEITHER THE AUTHOR, THE SOFTWARE DEVELOPERS
+NOR SPRINGER-VERLAG MAKE ANY REPRESENTATION, OR WARRANTY, EITHER
+EXPRESS OR IMPLIED, WITH RESPECT TO THE SOFTWARE, THEIR QUALITY,
+ACCURACY, OR FITNESS FOR A SPECIFIC PURPOSE.  IN NO EVENT UNLESS
+REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY
+COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
+REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU
+FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE
+THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA
+BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER
+PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES.
+
+        
+
+          END OF LICENSE AGREEMENT AND LIMITED WARRANTY 
+
