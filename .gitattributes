@@ -1,3 +1,3 @@
 *.c linguist-detectable=false
-*.vhdl linguist-detectable=false
 *.v linguist-detectable=true
+*.vhdl linguist-detectable=false
